@@ -1765,7 +1765,7 @@ Alejandro Alfaro
 - [Miwa Dharod](https://github.com/miwadharod17)
 - [Mizaan Ur Rehman](https://github.com/miz2)
 
-* [Oleksandr Perian](https://github.com/oleksandrperian-commits)
+- [Oleksandr Perian](https://github.com/oleksandrperian-commits)
 
 - [Mohamed Anes](https://github.com/Mohamed-Anes)
 - [Mohamed Salih](https://github.com/mohamedsalihva)
@@ -2734,7 +2734,7 @@ Merjen Amanmuradova
 - [Nelli Bhasker](https://github.com/bhaskern55)
 - [aloha](https://github.com/666-yanzhi)
 
-* [Shashwajan Akinapelly](https://github.com/coderwrexx)
+- [Shashwajan Akinapelly](https://github.com/coderwrexx)
 
 - [Revati Natu](https://github.com/Revati-N)
 - [muharyman](https://github.com/muharyman)
@@ -3389,8 +3389,9 @@ Oiloo
 - [Flávia Souza](https://github.com/Flavinha-Souza)
 - [Sunil Talla](https://github.com/suniltalla1)
 
-* [M. Khubaib Zafar](https://github.com/mkhubaibzafar01)
+- [M. Khubaib Zafar](https://github.com/mkhubaibzafar01)
 
+- [Caleb Short](https://github.com/Spudoku)
 - Prarthana Bhandari
 - [Minh Phan](https://github.com/Mphan6139/)
 - [Mohit](https://github.com/moihtdudeja)
@@ -3403,7 +3404,7 @@ Oiloo
 - [Pythntogo](https://github.com/pythontogo)
 - [Henry Kwok](https://github.com/329henry)
 
-* [M. Khubaib Zafar](https://github.com/mkhubaibzafar01)
+- [M. Khubaib Zafar](https://github.com/mkhubaibzafar01)
 
 - [Vedant Ralekar](https://github.com/VedantRalekar)
 - [Silvia Tapia](https://github.com/SILVIAMCG)
@@ -3438,7 +3439,7 @@ Oiloo
 - [Jay Gaikar]("First Contribution")
 - [D57680](https://github.com/D57680)
 
-* [jeongwool](https://github.com/jeongwool)
+- [jeongwool](https://github.com/jeongwool)
 
 - [omar MT] (<https://github.com/omarmouttalie>)
 - [Oleg Ataeff](https://github.com/ariannamethod)
@@ -3470,4 +3471,3 @@ Oiloo
 - [Parv Garg](https://github.com/parvgarg05/)
 - [JJS](https://github.com/jsng23)
 - [Pankaj Upadhyay](https://github.com/pankaj-cod)
-- [Caleb Short](https://github.com/Spudoku)
